@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "website_profile.png"
   name             : "João Amaro"
-  pronouns         : #he/him  
+  pronouns         : "he/him"  
   bio              : "Neuro - Computation | Imaging | Cognition"
   location         : "Lisbon, Portugal"
-  employer         : "Faculty of Medicine, University of Lisbon"
+  employer         : "University of Lisbon"
   uri              : # URL
   email            : "joao-amaro@edu.ulisboa.pt"
 
@@ -40,7 +40,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0008-8911-4288"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/joao.amaro.2/bibliography/public"
   researchgate     : # URL
   scopus           : # URL
 
@@ -48,13 +48,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/JoaoAmaro2001"
+  github           : "JoaoAmaro2001"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/joaoamaro01"
+  linkedin         : "joaoamaro01"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
